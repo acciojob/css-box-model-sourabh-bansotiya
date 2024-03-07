@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+#box1{
+	width: 600px;
+	height: 300px;
+	border: 1px solid;
+	background-color: white;
+	margin-bottom: 20px;
+}
+#box2{
+	border: 15px solid blue;
+	margin: 20px;
+}
+#box3{
+	padding: 50px;
+	background-color: lightblue;
+	border: 1px solid;
+}
+#box4{
+	width: 300px;
+}
